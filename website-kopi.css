@@ -1,5 +1,5 @@
 :root {
-  --primary: #b6895b;
+  --primary: red;
   --bg: #010101;
 }
 
@@ -92,7 +92,7 @@ body {
   max-width: 100vw;
   display: flex;
   align-items: center;
-  background-image: url(img/hero.jpg);
+  background-image: url(img/gambar.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
